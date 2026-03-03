@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi, I'm Ben 👋
+
+- 🔭 I’m currently building fun and practical projects in Go and Python
+- 🧠 Interested in backend development, data, and AI
+- 💬 If you have any questions about my repositories, feel free to reach out
 
 <!--
 **Bention99/Bention99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
