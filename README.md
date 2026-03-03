@@ -1,4 +1,4 @@
-Hi, I'm Ben 👋
+Hi, I'm Benoît 👋
 
 - 🔭 I’m currently building fun and practical projects in Go and Python
 - 🧠 Interested in backend development, data, and AI
